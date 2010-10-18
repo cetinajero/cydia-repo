@@ -1,0 +1,11 @@
+md5sum: c8488b85fe42df48fb0b9f85235b49d9
+Maintainer: X-Ed <contacto@nit.mx>
+Name: iRKSH
+Package: com.iphone.irksh
+Section: Utilities
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iRKSH para iOS
+Sponsor: Nit.MX
+Size: 1928
+Filename: debs/irksh.deb
